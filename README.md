@@ -85,7 +85,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 May 2022 - To: 02 June 2022
+
+YAML       36 mins         ██████████▓░░░░░░░░░░░░░░   42.83 %
+Markdown   31 mins         █████████▒░░░░░░░░░░░░░░░   36.69 %
+CMake      14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+JSON       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
