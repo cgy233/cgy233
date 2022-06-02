@@ -83,8 +83,6 @@
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-=======
->>>>>>> 83af2b3373a705edd64951c72b5c43aaff5c69e9
 
 ```text
 No activity tracked
