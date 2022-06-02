@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <h3 align="center">
     Hi~ Thank you for coming!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -85,16 +83,11 @@
 <!-- waka readme - https://github.com/athul/waka-readme -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+=======
+>>>>>>> 83af2b3373a705edd64951c72b5c43aaff5c69e9
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
-
-PHP          20 hrs 9 mins   ████████████▒░░░░░░░░░░░░   49.49 %
-Go           10 hrs 26 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
-Vue.js       4 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-YAML         2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-JavaScript   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Markdown     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
