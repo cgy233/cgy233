@@ -85,7 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 July 2022 - To: 23 July 2022
+From: 17 July 2022 - To: 24 July 2022
 
 C             5 hrs 57 mins   ████████████████▓░░░░░░░░   66.55 %
 Python        1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
