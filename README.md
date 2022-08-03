@@ -96,6 +96,6 @@ No activity tracked
 
 ## 🔥 My projects
 
-- [Tangerine'Blog](https://cyupi.top) - 我正在使用的个人博客项目
+- [Tangerine'Blog](https://cgy233.github.io/) - 我正在使用的个人博客项目
 
 ---
