@@ -85,10 +85,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 August 2022 - To: 10 August 2022
+From: 04 August 2022 - To: 11 August 2022
 
-C            2 hrs 48 mins   ██████████████░░░░░░░░░░░   55.90 %
-Other        53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+C            2 hrs 54 mins   ███████████████▒░░░░░░░░░   60.80 %
+Text         1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+YAML         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
