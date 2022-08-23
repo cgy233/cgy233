@@ -98,6 +98,6 @@ Other        1 hr 15 mins    ████░░░░░░░░░░░░░
 
 ## 🔥 My projects
 
-- [Tangerine'Blog](https://cgy233.github.io/) - 我正在使用的个人博客项目
+- [Tangerine'Blog](https://cyupi.top) - 我正在使用的个人博客项目
 
 ---
