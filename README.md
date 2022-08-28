@@ -85,7 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 August 2022 - To: 27 August 2022
+From: 21 August 2022 - To: 28 August 2022
 
 C            8 hrs 31 mins   ████████████████▓░░░░░░░░   66.48 %
 Markdown     1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
