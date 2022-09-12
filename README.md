@@ -85,11 +85,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2022 - To: 11 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-C++        47 mins         ██████████████▓░░░░░░░░░░   58.29 %
-C          31 mins         █████████▓░░░░░░░░░░░░░░░   38.65 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+C++        47 mins         █████████████████▒░░░░░░░   68.75 %
+C          21 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
