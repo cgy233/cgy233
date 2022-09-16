@@ -85,12 +85,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 September 2022 - To: 15 September 2022
+From: 09 September 2022 - To: 16 September 2022
 
-C         3 hrs 51 mins   ██████████████▓░░░░░░░░░░   59.02 %
-Python    1 hr 47 mins    ███████░░░░░░░░░░░░░░░░░░   27.37 %
-C++       49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Other     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+C            4 hrs 28 mins   █████████████████▒░░░░░░░   69.28 %
+Python       1 hr 48 mins    ███████░░░░░░░░░░░░░░░░░░   27.93 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
