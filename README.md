@@ -85,11 +85,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
+From: 30 September 2022 - To: 07 October 2022
 
-C            5 hrs 9 mins    ███████████████████████▓░   94.34 %
-AutoHotkey   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JavaScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
