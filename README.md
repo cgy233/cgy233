@@ -85,13 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
-
-Python     36 mins         ████████████▓░░░░░░░░░░░░   51.14 %
-C          32 mins         ███████████▒░░░░░░░░░░░░░   45.21 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
