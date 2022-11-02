@@ -85,7 +85,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 October 2022 - To: 02 November 2022
+
+C          32 mins         ████████▒░░░░░░░░░░░░░░░░   33.18 %
+XML        26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
+Python     24 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+Other      10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 ```
 
 <!--END_SECTION:waka-->
