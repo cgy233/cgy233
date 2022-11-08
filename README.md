@@ -85,12 +85,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 07 November 2022
+From: 01 November 2022 - To: 08 November 2022
 
-Python       3 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.53 %
-C            3 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.91 %
-XML          26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+C            4 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.25 %
+Python       3 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.49 %
+Other        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
