@@ -85,14 +85,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 26 November 2022 - To: 03 December 2022
 
-C            8 hrs 32 mins   ██████████████████████▓░░   90.26 %
-AutoHotkey   39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Batchfile    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+C            6 hrs 26 mins   ████████████████████████░   96.57 %
+AutoHotkey   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
