@@ -85,14 +85,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-C            3 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   45.25 %
-YAML         2 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.95 %
-AutoHotkey   55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+C            3 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.96 %
+YAML         2 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.45 %
+AutoHotkey   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+Other        51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
 ```
 
 <!--END_SECTION:waka-->
