@@ -85,7 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
 C            3 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.96 %
 YAML         2 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.45 %
