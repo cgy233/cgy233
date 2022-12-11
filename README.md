@@ -85,12 +85,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 04 December 2022 - To: 11 December 2022
 
-C            3 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.96 %
-YAML         2 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.45 %
-AutoHotkey   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Other        51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+C            3 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.86 %
+YAML         2 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   32.38 %
+AutoHotkey   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Other        52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
 ```
 
 <!--END_SECTION:waka-->
