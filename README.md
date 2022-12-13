@@ -85,11 +85,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 12 December 2022
+From: 06 December 2022 - To: 13 December 2022
 
-C            4 hrs 7 mins    ████████████▒░░░░░░░░░░░░   48.84 %
-YAML         2 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 %
-Other        52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+C            5 hrs 42 mins   ███████████████░░░░░░░░░░   60.64 %
+YAML         2 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 %
+Other        52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
 ```
 
 <!--END_SECTION:waka-->
