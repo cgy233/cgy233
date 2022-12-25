@@ -85,7 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
+From: 18 December 2022 - To: 25 December 2022
 
 C             4 hrs 12 mins   ███████████████▒░░░░░░░░░   60.90 %
 Other         1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
