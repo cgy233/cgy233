@@ -85,13 +85,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
-C            7 hrs 1 min     ███████████████████▓░░░░░   78.18 %
-YAML         1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-AutoHotkey   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C       7 hrs 46 mins   ████████████████████░░░░░   79.46 %
+YAML    1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Other   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
