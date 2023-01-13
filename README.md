@@ -85,11 +85,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-C            3 hrs 4 mins    ████████████░░░░░░░░░░░░░   47.98 %
-YAML         1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-Other        43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+C            2 hrs 25 mins   ███████████▓░░░░░░░░░░░░░   46.40 %
+YAML         1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
+JavaScript   36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+CMake        35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Other        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:waka-->
