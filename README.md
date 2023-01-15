@@ -85,7 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
 C            2 hrs 24 mins   █████████████▓░░░░░░░░░░░   55.32 %
 CMake        35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
