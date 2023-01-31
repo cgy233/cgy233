@@ -72,10 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-C       38 mins         ████████████████████████▓   99.26 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+AutoHotkey   1 hr 11 mins    █████████████▓░░░░░░░░░░░   54.07 %
+C            43 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
+Markdown     16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
