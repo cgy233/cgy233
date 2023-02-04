@@ -72,13 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-AutoHotkey   2 hrs 26 mins   ██████████████▒░░░░░░░░░░   57.62 %
-C            1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-Markdown     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-CMake        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+AutoHotkey   2 hrs 26 mins   ████████████▒░░░░░░░░░░░░   48.85 %
+C            1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Markdown     48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Other        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 ```
 
 <!--END_SECTION:waka-->
