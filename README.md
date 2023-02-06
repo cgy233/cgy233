@@ -72,12 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 January 2023 - To: 05 February 2023
+From: 30 January 2023 - To: 06 February 2023
 
-AutoHotkey   2 hrs 26 mins   ████████████░░░░░░░░░░░░░   48.28 %
-C            1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-Markdown     48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Other        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+AutoHotkey   2 hrs 26 mins   █████████████▓░░░░░░░░░░░   55.07 %
+Markdown     48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+C            30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Other        23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
 ```
 
 <!--END_SECTION:waka-->
