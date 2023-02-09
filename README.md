@@ -72,11 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 08 February 2023
+From: 02 February 2023 - To: 09 February 2023
 
-C            5 hrs 46 mins   ███████████████████▓░░░░░   78.67 %
-Markdown     32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Other        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+C             5 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.29 %
+C++           1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+INI           1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Other         1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
 ```
 
 <!--END_SECTION:waka-->
