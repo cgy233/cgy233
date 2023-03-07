@@ -72,13 +72,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 06 March 2023
+From: 28 February 2023 - To: 07 March 2023
 
-C             38 hrs 14 mins  ████████████████████████▒   97.93 %
-JSON          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-AutoHotkey    11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Objective-C   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+C            40 hrs 1 min    ████████████████████████▓   98.52 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+AutoHotkey   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
