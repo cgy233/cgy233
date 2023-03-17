@@ -72,14 +72,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-C            26 hrs 17 mins  █████████████████████▓░░░   87.28 %
-AutoHotkey   2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Git Config   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-SSH Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+C            25 hrs 14 mins  █████████████████████▓░░░   86.94 %
+AutoHotkey   2 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+SSH Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
