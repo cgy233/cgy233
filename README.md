@@ -71,11 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2023 - To: 28 March 2023
+From: 22 March 2023 - To: 29 March 2023
 
-C                18 hrs 14 mins  ███████████████████████░░   92.37 %
-JSON             41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Other            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+C                15 hrs 26 mins  ████████████████████████▒   96.84 %
+AutoHotkey       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
