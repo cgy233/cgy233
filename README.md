@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2023 - To: 15 April 2023
+From: 09 April 2023 - To: 16 April 2023
 
 C            1 hr 46 mins    ██████████████████████▓░░   90.12 %
 JavaScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
