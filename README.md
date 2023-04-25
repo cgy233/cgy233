@@ -71,10 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 24 April 2023
+From: 18 April 2023 - To: 25 April 2023
 
-C             21 mins         ███████████████████▒░░░░░   77.70 %
-Other         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+C             55 mins         ███████████████████████▓░   94.07 %
+Other         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
