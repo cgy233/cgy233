@@ -71,9 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2023 - To: 08 May 2023
+From: 02 May 2023 - To: 09 May 2023
 
-C   4 hrs           █████████████████████████   100.00 %
+C             5 hrs 1 min     ███████████████████████▒░   93.97 %
+Markdown      17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Git Config    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Batchfile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+SSH Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
