@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2023 - To: 13 May 2023
+From: 07 May 2023 - To: 14 May 2023
 
-C             9 hrs 34 mins   ████████████████████░░░░░   80.57 %
-AutoHotkey    48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Markdown      27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Objective-C   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-SSH Config    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+C             9 hrs 34 mins   ████████████████████░░░░░   79.78 %
+AutoHotkey    52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Markdown      27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Objective-C   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+SSH Config    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
