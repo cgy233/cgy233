@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
-YAML          6 hrs 3 mins    ██████████████░░░░░░░░░░░   56.41 %
-C             2 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-JavaScript    1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-AutoHotkey    21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Git Config    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+YAML          6 hrs 3 mins    ██████████████░░░░░░░░░░░   56.60 %
+C             2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+JavaScript    58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Git Config    26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+AutoHotkey    21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
