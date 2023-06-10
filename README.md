@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 AutoHotkey    1 hr 20 mins    █████████▓░░░░░░░░░░░░░░░   38.72 %
 C             1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.68 %
