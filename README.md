@@ -71,13 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2023 - To: 21 June 2023
+From: 15 June 2023 - To: 22 June 2023
 
-AutoHotkey    20 mins         ████████████▒░░░░░░░░░░░░   48.75 %
-Markdown      14 mins         ████████▓░░░░░░░░░░░░░░░░   34.07 %
-Objective-C   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-C             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+AutoHotkey   20 mins         ██████████████▓░░░░░░░░░░   58.86 %
+Markdown     14 mins         ██████████▒░░░░░░░░░░░░░░   41.14 %
 ```
 
 <!--END_SECTION:waka-->
