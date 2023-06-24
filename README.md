@@ -71,10 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-AutoHotkey   21 mins         ███████████████░░░░░░░░░░   60.09 %
-Markdown     14 mins         ██████████░░░░░░░░░░░░░░░   39.91 %
+AutoHotkey   18 mins         ██████████████░░░░░░░░░░░   56.15 %
+Markdown     14 mins         ███████████░░░░░░░░░░░░░░   43.85 %
 ```
 
 <!--END_SECTION:waka-->
