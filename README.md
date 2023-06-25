@@ -71,10 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 24 June 2023
+From: 18 June 2023 - To: 25 June 2023
 
-AutoHotkey   18 mins         ██████████████░░░░░░░░░░░   56.15 %
-Markdown     14 mins         ███████████░░░░░░░░░░░░░░   43.85 %
+C            1 hr 24 mins    █████████████▒░░░░░░░░░░░   53.58 %
+Python       45 mins         ███████▒░░░░░░░░░░░░░░░░░   28.93 %
+Markdown     14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+AutoHotkey   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
