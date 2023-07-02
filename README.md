@@ -87,10 +87,10 @@ YAML         9 mins          █░░░░░░░░░░░░░░░░
 ## 🔥 My projects
 
 - [Tangerine'Blog](https://cyupi.top) - 我正在使用的个人博客项目
-- [EthanHome-WOL]((https://github.com/cgy233/EthanHome-WOL)https://github.com/cgy233/EthanHome-WOL) - 使用Python脚本配置WOL，配合米家让小爱同学可以远程操控PC开关
-- [BLE_Tracker_Gateway]((https://github.com/cgy233/BLE_Tracker_Gateway)https://github.com/cgy233/BLE_Tracker_Gateway) - 使用ESP32进行绑定小米手环，在家离家检测（HASS）
+- [EthanHome-WOL](https://github.com/cgy233/EthanHome-WOL) - 使用Python脚本配置WOL，配合米家让小爱同学可以远程操控PC开关
+- [BLE_Tracker_Gateway](https://github.com/cgy233/BLE_Tracker_Gateway) - 使用ESP32进行绑定小米手环，在家离家检测（HASS）
 - [mqttclient](https://github.com/cgy233/mqttclient) - 享品荟-ESP32蓝牙网关
 - [WechatAPPBLE](https://github.com/cgy233/WechatAPPBLE) - 微信小程序，蓝牙扫描及应用
-- [课堂纪律监控系统](https://github.com/cgy233/Classroom-discipline-monitoring-system)https://github.com/cgy233/Classroom-discipline-monitoring-system - 省赛项目，使用YOLOv3目标检测模型
-- [track_data_processing](https://github.com/cgy233/track_data_processing)https://github.com/cgy233/track_data_processing - 粤语标注数据处理程序，时间筛选和有效时长统计，Python数据处理
+- [课堂纪律监控系统](https://github.com/cgy233/Classroom-discipline-monitoring-system) - 省赛项目，使用YOLOv3目标检测模型
+- [track_data_processing](https://github.com/cgy233/track_data_processing) - 粤语标注数据处理程序，时间筛选和有效时长统计，Python数据处理
 ---
