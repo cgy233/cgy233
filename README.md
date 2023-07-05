@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-JavaScript   35 mins         █████████▓░░░░░░░░░░░░░░░   38.62 %
-Smarty       14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-SSH Config   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-AutoHotkey   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-YAML         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+JavaScript   35 mins         ████████▒░░░░░░░░░░░░░░░░   33.63 %
+JSON         14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Smarty       14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+SSH Config   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+AutoHotkey   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 ```
 
 <!--END_SECTION:waka-->
