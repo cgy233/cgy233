@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-C                18 hrs 38 mins  █████████████████████░░░░   83.42 %
-Objective-C      2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Markdown         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Other            27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Python           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C                15 hrs 44 mins  █████████████████████▓░░░   86.64 %
+Objective-C      2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
