@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
 C                15 hrs 44 mins  █████████████████████▓░░░   86.64 %
 Objective-C      2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
