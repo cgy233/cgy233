@@ -71,12 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-C             1 hr 43 mins    ███████████████████████░░   91.47 %
-Objective-C   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Assembly      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
