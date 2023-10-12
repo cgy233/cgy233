@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-C             22 hrs 39 mins  ███████████████████▓░░░░░   78.32 %
-Python        4 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Objective-C   1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-JSON          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-AutoHotkey    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+C             28 hrs 47 mins  ████████████████████▓░░░░   82.00 %
+Python        4 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Objective-C   1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+JSON          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+AutoHotkey    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
