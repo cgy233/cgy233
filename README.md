@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-C             19 hrs 46 mins  ████████████████████████▓   99.33 %
-Assembly      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Ezhil         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C             12 hrs 43 mins  █████████████████████████   99.43 %
+Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Assembly      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
