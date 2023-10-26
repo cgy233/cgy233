@@ -71,13 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 19 October 2023 - To: 26 October 2023
 
-C             12 hrs 43 mins  █████████████████████████   99.43 %
-Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Assembly      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C             4 hrs 39 mins   ████████████████████████▓   98.82 %
+Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
