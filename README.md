@@ -71,12 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2023 - To: 26 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-C             4 hrs 39 mins   ████████████████████████▓   98.82 %
-Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
