@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2023 - To: 15 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
 C       43 mins         █████████████████████████   99.81 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
