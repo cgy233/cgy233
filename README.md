@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
 C             10 hrs 54 mins  █████████████████████████   99.88 %
 Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
