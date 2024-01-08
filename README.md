@@ -71,9 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-C             10 hrs 54 mins  █████████████████████████   99.88 %
+C             10 hrs 54 mins  █████████████████████████   99.48 %
+Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
