@@ -71,11 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-C             10 hrs 54 mins  █████████████████████████   99.48 %
-Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C             10 hrs 32 mins  █████████████████████████   99.51 %
+Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
