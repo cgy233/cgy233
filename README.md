@@ -71,9 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 30 January 2024
+From: 24 January 2024 - To: 31 January 2024
 
-Markdown   0 secs          █████████████████████████   100.00 %
+C++        3 hrs 11 mins   ████████████████████████░   96.30 %
+Makefile   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
