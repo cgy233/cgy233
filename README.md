@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2024 - To: 04 February 2024
+From: 29 January 2024 - To: 05 February 2024
 
 C++        6 hrs 25 mins   ███████████████████████▓░   95.22 %
 Makefile   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
