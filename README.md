@@ -71,10 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2024 - To: 01 May 2024
+From: 25 April 2024 - To: 02 May 2024
 
-C             25 mins         █████████████████████████   99.78 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+C             0 secs          ███████████████████▓░░░░░   79.31 %
+Objective-C   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
 ```
 
 <!--END_SECTION:waka-->
