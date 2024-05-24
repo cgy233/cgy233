@@ -71,9 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-No activity tracked
+Markdown   24 mins         █████████████▒░░░░░░░░░░░   53.62 %
+C          19 mins         ██████████▓░░░░░░░░░░░░░░   42.09 %
+Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
