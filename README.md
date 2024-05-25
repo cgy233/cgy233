@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2024 - To: 24 May 2024
+From: 18 May 2024 - To: 25 May 2024
 
 Markdown   24 mins         █████████████▒░░░░░░░░░░░   53.62 %
 C          19 mins         ██████████▓░░░░░░░░░░░░░░   42.09 %
