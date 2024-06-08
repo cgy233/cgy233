@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
 C           12 mins         ██████████████████▓░░░░░░   75.17 %
 Other       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
