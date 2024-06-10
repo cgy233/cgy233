@@ -71,12 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2024 - To: 09 June 2024
+From: 03 June 2024 - To: 10 June 2024
 
-C           12 mins         ██████████████████▓░░░░░░   75.17 %
-Other       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Markdown    1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Batchfile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Markdown   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
