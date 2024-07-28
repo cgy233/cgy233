@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2024 - To: 27 July 2024
+From: 21 July 2024 - To: 28 July 2024
 
-C             17 hrs 12 mins  █████████████████████▒░░░   84.70 %
-Python        1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Makefile      48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Objective-C   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-AutoHotkey    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+C             19 hrs 39 mins  ███████████████████▓░░░░░   79.12 %
+Python        3 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Makefile      48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Objective-C   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+AutoHotkey    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
