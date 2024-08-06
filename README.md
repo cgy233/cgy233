@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2024 - To: 05 August 2024
+From: 30 July 2024 - To: 06 August 2024
 
-C                  12 hrs 56 mins  ██████████████████░░░░░░░   72.51 %
-Python             2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Markdown           44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-YAML               22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-reStructuredText   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+C                  11 hrs 32 mins  ███████████████████▒░░░░░   77.83 %
+Python             2 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+reStructuredText   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+YAML               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Makefile           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
