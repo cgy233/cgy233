@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-C             23 hrs 23 mins  ██████████████████░░░░░░░   72.43 %
-Python        5 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Makefile      1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-JSON          1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Batchfile     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+C             22 hrs 18 mins  ██████████████████░░░░░░░   72.63 %
+Python        5 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+Makefile      1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+JSON          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Batchfile     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
