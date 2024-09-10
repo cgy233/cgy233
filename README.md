@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-C             12 hrs 39 mins  █████████████████████▒░░░   85.79 %
-Python        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Objective-C   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Markdown      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-YAML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+C             9 hrs 16 mins   ████████████████████▓░░░░   82.52 %
+Python        38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Objective-C   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+YAML          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Git Config    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
