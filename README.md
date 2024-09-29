@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2024 - To: 28 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
-C                  9 hrs 23 mins   ████████████████▓░░░░░░░░   66.31 %
-Makefile           1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Python             1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Objective-C        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Markdown           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+C             8 hrs 1 min     ████████████████▒░░░░░░░░   65.27 %
+Python        2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Makefile      1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Objective-C   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+YAML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
