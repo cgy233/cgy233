@@ -71,13 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-C            1 hr 32 mins    ████████████▓░░░░░░░░░░░░   50.56 %
-Python       1 hr 12 mins    ██████████░░░░░░░░░░░░░░░   39.88 %
-Makefile     16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-AutoHotkey   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+C   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
