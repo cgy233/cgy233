@@ -71,12 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-C             1 hr 58 mins    ███████████████████████▒░   93.55 %
-YAML          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+C             6 hrs 13 mins   ████████████████████████░   95.52 %
+YAML          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+AutoHotkey    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Python        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
