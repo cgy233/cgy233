@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2024 - To: 12 October 2024
+From: 06 October 2024 - To: 13 October 2024
 
-C             16 hrs 9 mins   ███████████████████████░░   91.87 %
-Makefile      51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+C             16 hrs 55 mins  ███████████████████████░░   91.92 %
+Makefile      51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 YAML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Git Config    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-JSON          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Git Config    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JSON          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
