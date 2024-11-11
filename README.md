@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-C             10 hrs 58 mins  ██████████████████▓░░░░░░   75.00 %
-Python        1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Rust          1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-AutoHotkey    20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Batchfile     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+C             10 hrs 27 mins  ███████████████████░░░░░░   76.32 %
+Python        1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Rust          1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+AutoHotkey    20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Batchfile     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
