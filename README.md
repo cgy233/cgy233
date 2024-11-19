@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2024 - To: 18 November 2024
+From: 12 November 2024 - To: 19 November 2024
 
-C             9 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.97 %
-Markdown      4 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-Python        3 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-Rust          3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Bash          1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+C             10 hrs 28 mins  ███████████░░░░░░░░░░░░░░   44.08 %
+Markdown      4 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Python        3 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Bash          1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Rust          1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
