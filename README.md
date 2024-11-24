@@ -71,9 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2024 - To: 23 November 2024
+From: 17 November 2024 - To: 24 November 2024
 
-C             20 hrs 17 mins  ████████████████████▒░░░░   80.88 %
+C             20 hrs 19 mins  ████████████████████▒░░░░   80.90 %
 JSON          1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 Bash          1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 Objective-C   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
