@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-C             28 hrs 38 mins  ███████████████████████▓░   95.01 %
-JSON          52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Other         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Objective-C   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Git Config    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C                30 hrs 8 mins   ████████████████████████░   95.64 %
+AutoHotkey       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Objective-C      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other            12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
