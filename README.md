@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 01 December 2024
+From: 25 November 2024 - To: 02 December 2024
 
-C                24 hrs 34 mins  ███████████████████████░░   91.79 %
-AutoHotkey       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Objective-C      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Python           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+C                19 hrs 2 mins   ██████████████████████▒░░   89.64 %
+AutoHotkey       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Objective-C      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
