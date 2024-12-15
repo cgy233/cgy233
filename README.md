@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 14 December 2024
+From: 08 December 2024 - To: 15 December 2024
 
 C                32 hrs 23 mins  █████████████████████▓░░░   86.66 %
 Python           1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
