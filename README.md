@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2024 - To: 21 December 2024
+From: 15 December 2024 - To: 22 December 2024
 
 C            25 hrs 55 mins  █████████████████████░░░░   83.78 %
 Bash         2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
