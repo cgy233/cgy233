@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2024 - To: 23 December 2024
+From: 17 December 2024 - To: 24 December 2024
 
-C           25 hrs 11 mins  █████████████████████░░░░   84.05 %
-Bash        2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Python      1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Markdown    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Makefile    11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+C             20 hrs 36 mins  ████████████████████▓░░░░   82.20 %
+Bash          2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Python        1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Markdown      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Makefile      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
