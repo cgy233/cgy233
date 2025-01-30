@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2025 - To: 29 January 2025
+From: 23 January 2025 - To: 30 January 2025
 
-C             4 hrs 41 mins   ███████████████████▓░░░░░   78.67 %
-Python        1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-INI           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Git Config    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C            2 hrs 26 mins   ██████████████████▒░░░░░░   73.89 %
+Python       49 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
