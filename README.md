@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-C             7 hrs 10 mins   ███████████████████████▓░   94.54 %
-Batchfile     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-JSON          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C             8 hrs 48 mins   ██████████████████▒░░░░░░   73.89 %
+Objective-C   2 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+Batchfile     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Makefile      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
