@@ -86,7 +86,7 @@ Python        8 mins          ░░░░░░░░░░░░░░░░�
 
 ## 🔥 My projects
 
-- [Tangerine'Blog]((https://cgy233.github.io/)) - 我正在使用的个人博客项目
+- [Tangerine'Blog](https://cgy233.github.io/) - 我正在使用的个人博客项目
 - [EthanHome-WOL](https://github.com/cgy233/EthanHome-WOL) - 使用Python脚本配置WOL，配合米家让小爱同学可以远程操控PC开关
 - [AHKScript](https://github.com/cgy233/AHKScript) - AutoHotKey脚本，切换音频输出设备、切换网络环境和一些快捷操作方式
 - [BLE_Tracker_Gateway](https://github.com/cgy233/BLE_Tracker_Gateway) - 使用ESP32进行绑定小米手环，在家离家检测（HASS）
