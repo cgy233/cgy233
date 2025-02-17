@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-C             20 hrs 18 mins  █████████████████████▓░░░   87.29 %
-Objective-C   1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Other         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-YAML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-CMake         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C             17 hrs 49 mins  █████████████████████▒░░░   85.63 %
+Objective-C   1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Other         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+YAML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TypeScript    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
