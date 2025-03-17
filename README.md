@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-C             2 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.24 %
-Makefile      1 hr 21 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Markdown      1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-JSON          40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-SSH Config    40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+C             2 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   38.97 %
+Makefile      1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Markdown      1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+SSH Config    40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+JSON          37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
 ```
 
 <!--END_SECTION:waka-->
