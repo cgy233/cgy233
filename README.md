@@ -71,13 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
-Python       36 mins         ███████████████▓░░░░░░░░░   62.77 %
-Markdown     13 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
-YAML         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-AutoHotkey   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       37 mins         ██████████████████▒░░░░░░   72.95 %
+Markdown     13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+AutoHotkey   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
