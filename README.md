@@ -71,12 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 16 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-C            1 hr 14 mins    ██████████████████████▒░░   89.08 %
-YAML         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+C            1 hr 14 mins    ██████████████████████▒░░   89.23 %
+YAML         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
 AutoHotkey   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
