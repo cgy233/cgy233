@@ -71,9 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 28 April 2025 - To: 05 May 2025
 
-No activity tracked
+Other        24 mins         ████████████░░░░░░░░░░░░░   48.13 %
+JavaScript   14 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 %
+YAML         10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+C            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+AutoHotkey   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
