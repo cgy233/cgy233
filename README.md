@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 05 May 2025
+From: 29 April 2025 - To: 06 May 2025
 
 Other        24 mins         ████████████░░░░░░░░░░░░░   48.13 %
 JavaScript   14 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 %
