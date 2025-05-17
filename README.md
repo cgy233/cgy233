@@ -71,13 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-JSON         18 mins         ██████████████▓░░░░░░░░░░   59.21 %
-Markdown     6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-HTML         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-AutoHotkey   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
