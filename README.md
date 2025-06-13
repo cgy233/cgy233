@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
-C            5 hrs 39 mins   ██████████████░░░░░░░░░░░   56.34 %
-Markdown     1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-AutoHotkey   1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Python       44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Makefile     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+C            4 hrs 29 mins   █████████████░░░░░░░░░░░░   52.02 %
+Markdown     1 hr 47 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
+AutoHotkey   1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Python       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Makefile     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
