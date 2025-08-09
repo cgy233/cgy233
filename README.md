@@ -71,12 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 08 August 2025
+From: 02 August 2025 - To: 09 August 2025
 
 C               3 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.51 %
 Bash            2 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
 Makefile        1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-YAML            1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+YAML            1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 Markdown        1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
 ```
 
