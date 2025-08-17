@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
 C          5 hrs 38 mins   ███████████████▒░░░░░░░░░   61.06 %
 Bash       1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.38 %
