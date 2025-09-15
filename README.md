@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 08 September 2025 - To: 15 September 2025
 
-C             3 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-Markdown      2 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-Bash          2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-Makefile      1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-YAML          52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+C             5 hrs 11 mins   █████████░░░░░░░░░░░░░░░░   36.52 %
+Bash          2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+Markdown      2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Makefile      1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+YAML          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
