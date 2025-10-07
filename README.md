@@ -71,13 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-Makefile   59 mins         ███████████████▒░░░░░░░░░   61.14 %
-C          27 mins         ███████░░░░░░░░░░░░░░░░░░   28.48 %
-Bash       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Git        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-C++        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
