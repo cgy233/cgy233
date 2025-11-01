@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
 C              15 hrs 44 mins  ███████████████▓░░░░░░░░░   63.22 %
 C++            5 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
