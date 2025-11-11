@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-C             19 hrs 30 mins  ███████████████▒░░░░░░░░░   61.53 %
-C++           7 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-Makefile      1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Bash          1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Markdown      1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+C             21 hrs 44 mins  ███████████████▓░░░░░░░░░   62.57 %
+C++           8 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+Makefile      1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Bash          1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Markdown      53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
