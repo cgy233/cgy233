@@ -71,9 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-No activity tracked
+C++        9 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   44.72 %
+C          7 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.44 %
+Markdown   2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Makefile   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Bash       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
