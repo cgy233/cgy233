@@ -71,13 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 08 December 2025
+From: 02 December 2025 - To: 09 December 2025
 
-C          29 mins         ████████████████▒░░░░░░░░   65.07 %
-C++        8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-Markdown   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
