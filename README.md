@@ -71,10 +71,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 04 December 2025 - To: 11 December 2025
 
-C          2 mins          ████████████████████████░   95.67 %
-Makefile   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+C          2 hrs 44 mins   ████████████████▓░░░░░░░░   67.23 %
+Markdown   1 hr 17 mins    ████████░░░░░░░░░░░░░░░░░   31.41 %
+C++        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
