@@ -71,12 +71,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-C          2 hrs 9 mins          ██████████████████████▓░░   90.11 %
-Other      7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Makefile   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-C++        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
