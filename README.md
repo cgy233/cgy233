@@ -71,10 +71,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-C          21 mins               ████████████▓░░░░░░░░░░░░   50.92 %
-Markdown   20 mins               ████████████▒░░░░░░░░░░░░   49.08 %
+C          24 mins               █████████████▒░░░░░░░░░░░   53.69 %
+Markdown   20 mins               ███████████▓░░░░░░░░░░░░░   46.31 %
 ```
 
 <!--END_SECTION:waka-->
