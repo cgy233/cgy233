@@ -71,13 +71,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Other         9 hrs 43 mins         ████████████▓░░░░░░░░░░░░   51.10 %
-Python        3 hrs 35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-Objective-C   2 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Markdown      1 hr 38 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-JSON          1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Other         6 hrs 14 mins         ██████████▓░░░░░░░░░░░░░░   43.21 %
+Python        3 hrs 16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+Objective-C   1 hr 39 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Markdown      1 hr 38 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+JSON          49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->
